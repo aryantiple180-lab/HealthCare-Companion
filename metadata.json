@@ -1,0 +1,5 @@
+{
+  "name": "HealthCare Companion",
+  "description": "A professional mobile application that helps patients manage medicines, monitor health indicators, access nearby hospitals, order medicines online, and interact with a mental health AI chatbot.",
+  "requestFramePermissions": ["geolocation", "camera", "microphone"]
+}
